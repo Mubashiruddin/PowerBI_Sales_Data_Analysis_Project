@@ -12,4 +12,10 @@ We also have **lookup tables(dimension tables)** namely Product lookup, Product 
 
 ## Stage 4: Visualizing Data with Reports
 
+## AI features and performance optimization techniques used : 
+
 ### Visualizations
+
+## Insights and Findings:
+
+## Recommendations:
